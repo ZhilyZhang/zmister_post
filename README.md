@@ -1,6 +1,6 @@
 # 州的先生教程文章汇总
 
-!(https://zmister.com/wp-content/uploads/2018/06/博客登录logo.png)[]
+![](https://zmister.com/wp-content/uploads/2018/06/博客登录logo.png)
 
 州的先生博客[https://zmister.com](https://zmister.com) 文章教程汇总
 
