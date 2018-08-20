@@ -3,7 +3,7 @@
 ![](https://zmister.com/wp-content/uploads/2018/06/博客登录logo.png)
 
 州的先生博客[https://zmister.com](https://zmister.com) 文章教程汇总
-读者QQ群：["http://shang.qq.com/wpa/qunwpa?idkey=ae08fa9eb24b5b80812e947be49deb8ae87985f09e7d4bbe905f49db4b2e24cf"](![]("https://pub.idqqimg.com/wpa/images/group.png"))
+读者QQ群：[![]("https://pub.idqqimg.com/wpa/images/group.png")]("http://shang.qq.com/wpa/qunwpa?idkey=ae08fa9eb24b5b80812e947be49deb8ae87985f09e7d4bbe905f49db4b2e24cf")
 ## 一、爬虫与数据采集
 ## 二、数据分析与应用
 ## 三、Web开发
