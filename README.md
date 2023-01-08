@@ -1,4 +1,4 @@
-# 州的先生教程文章汇总
+# Python扩展学习
 
 ![](https://zmister.com/wp-content/uploads/2018/06/博客登录logo.png)
 
